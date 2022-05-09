@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @plat1nus
-- 👀 I’m interested in ///
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in ml
 - 📫 How to reach me: telegram @plat1nus
-
