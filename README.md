@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @plat1nus
-- 👀 I’m interested in ml
+- 👀 I’m interested in DS: ML, DS, CV
 - 📫 How to reach me: telegram @plat1nus
