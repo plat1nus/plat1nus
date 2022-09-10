@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @plat1nus
-- 👀 I’m interested in DL, CV
+- 👀 I’m interested in DL, CV, building own projects such as https://platinus-control.ru/
 - 📫 How to reach me: telegram @plat1nus
